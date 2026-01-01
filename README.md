@@ -1,5 +1,33 @@
 # 💫 About Me:
-I’m currently working on<br>Building modular Agentic AI systems using Python and LLMs<br>Designing clean pipelines for code generation, validation, and testing<br>Exploring performance trade-offs between local LLMs (Ollama) and cloud models<br><br>I’m looking to collaborate on<br>Open-source AI agent frameworks<br>Python-based AI and ML tools<br>Projects involving LLMs, RAG, or automation<br><br>I’m looking for help with<br>Securing an AI-based internship where I can put my skills to work and grow.<br>Scaling agent-based architectures<br>Optimizing LLM workflows for production<br>Best practices for deploying AI systems<br><br>I’m currently learning<br>Advanced LangGraph state management<br>System design for AI applications<br>Cyber Security concepts relevant to AI and APIs<br><br>Ask me about<br>Python backend development<br>Agentic AI workflows<br>Local vs cloud LLMs<br>Machine Learning fundamentals<br><br>Fun fact<br>The first computer “bug” was a real insect — a moth found inside a computer in 1947.
+🔭 I’m currently working on  
+- Building modular **Agentic AI systems** using Python and LLMs  
+- Designing clean pipelines for **code generation, validation, and testing**  
+- Exploring performance trade-offs between **local LLMs (Ollama)** and **cloud models**
+
+👯 I’m looking to collaborate on  
+- Open-source **AI agent frameworks**  
+- Python-based **AI/ML tools**  
+- Projects involving **LLMs, RAG, or automation**
+
+🤝 I’m looking for help with  
+- Scaling agent-based architectures  
+- Optimizing LLM workflows for production  
+- Best practices for deploying AI systems
+
+🌱 I’m currently learning  
+- Advanced **LangGraph** state management  
+- **System design** for AI applications  
+- **Cyber Security concepts** relevant to AI & APIs
+
+💬 Ask me about  
+- Python backend development  
+- Agentic AI workflows  
+- Local vs cloud LLMs  
+- Machine Learning fundamentals
+
+⚡ Fun fact  
+- I enjoy breaking complex AI systems into clean, well-structured modules more than using “one-click” tools 😄
+
 
 
 ## 🌐 Socials:
