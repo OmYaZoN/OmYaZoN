@@ -26,7 +26,7 @@
 - Machine Learning fundamentals
 
 ⚡ Fun fact  
-- I enjoy breaking complex AI systems into clean, well-structured modules more than using “one-click” tools 😄
+- Software engineers fix one bug and accidentally introduce two more — it’s called feature development.😄
 
 
 
