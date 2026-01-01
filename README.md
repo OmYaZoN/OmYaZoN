@@ -12,10 +12,10 @@ I’m currently working on<br>Building modular Agentic AI systems using Python a
 ![](https://nirzak-streak-stats.vercel.app/?user=OmYaZoN&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmYaZoN&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OmYaZoN&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+
+
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
